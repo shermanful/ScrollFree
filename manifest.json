@@ -1,0 +1,11 @@
+{
+  "name": "ScrollFree",
+  "version": "1.0.0",
+  "description": "Hands-free scrolling",
+  "manifest_version": 3,
+  "author": "Jill Sherman",
+  "icons": {
+    "48": "/assets/icons/48.png",
+    "128": "/assets/icons/128.png"
+  }
+}
